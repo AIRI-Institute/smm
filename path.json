@@ -1,0 +1,7 @@
+{
+    "data_paths": {
+        "shapestacks": "DATA_ROOT/ShapeStacks",
+        "clevrtexv2": "DATA_ROOT/CLEVRTEX"
+    },
+    "log_path": "./results/"
+}
